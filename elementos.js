@@ -31,15 +31,45 @@ module.exports = {
 		k: [
 			{
 				subnivel: 's',
-				eletrons: 1
+				eletrons: 0
 			}
 		],
-		l: [],
-		m: [],
-		n: [],
-		o: [],
-		p: [],
-		q: [],
+		l: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
+		m: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
+		n: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
+		o: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
+		p: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
+		q: [
+			{
+				subnivel: 's',
+				eletrons: 0
+			}
+		],
 	},
 	camadaValencia: {
 		k: {
